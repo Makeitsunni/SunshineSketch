@@ -1,7 +1,7 @@
 SunshineSketch
 ====================
 
-Work in progress sketching application created in WPF using C#.
+Sketching application created in WPF using C#.
 
 Includes abilities to... 
 
@@ -11,13 +11,6 @@ Includes abilities to...
 -adjust canvas size, add a background.
 -edit between 3 layers.
 -pretty good pen support.
-
-
-
-What dosen't work (yet):
-
--Global Settings
--Save As... doesn't work but, Save does.
 
 
 =================
