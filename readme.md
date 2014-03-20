@@ -6,11 +6,17 @@ Sketching application created in WPF using C#.
 Includes abilities to... 
 
 -save and restore palletes.
+
 -save and restore projects.
+
 -export projects as .PNG.
+
 -adjust canvas size, add a background.
+
 -edit between 3 layers.
+
 -pretty good pen support.
+
 
 
 =================
